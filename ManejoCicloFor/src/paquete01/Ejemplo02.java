@@ -16,7 +16,8 @@ public class Ejemplo02 {
      */
     public static void main(String[] args) {
         
-        for (int i = 1; i <= 10; i+=2) {
+        for (int i = 1; i <= 10; i+=2) {//esta parte nos va indicando que el 
+            //numero que vamos a sumar
             System.out.printf("%d\n", i);
         }
         
