@@ -28,6 +28,8 @@ public class Ejemplo07 {
             //System.out.println("\n");
             mensajeFinal = String.format("%s\n", mensajeFinal);
         } // termina for 01
+        //Este comando nos sirve para hacer que nuestro codigo no se imprima 
+        //muy junto y sea mas concreto a la hora de presentarlo
 
         System.out.printf("%s\n", mensajeFinal);
     }

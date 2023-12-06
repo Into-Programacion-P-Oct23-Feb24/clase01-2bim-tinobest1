@@ -23,7 +23,7 @@ public class Ejemplo01 {
 
         for (int i = 1; i < 11; i++) {
             cadenaFinal = String.format("%s%d", cadenaFinal, i);
-            //Utilizamos un string para 
+            //Utilizamos un string y el %s para recopilar toda la informacion anterior
 
         }
         System.out.printf("%s", cadenaFinal);
